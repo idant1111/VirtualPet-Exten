@@ -11,3 +11,6 @@ pets so far:
 ![pet3](https://github.com/idant1111/VirtualPet-Exten/assets/3217869/f48207cf-f815-484a-aba6-6e7bdeb2068b)
 ![pet2](https://github.com/idant1111/VirtualPet-Exten/assets/3217869/1977fa31-68ea-46d4-8d51-381b99b37862)
 ![pet1](https://github.com/idant1111/VirtualPet-Exten/assets/3217869/d55882a2-216d-4c9e-a2de-2e02846a9a32)
+
+
+![image](https://github.com/user-attachments/assets/65e95e19-45f5-4378-995f-170e0ed3a8c8)
